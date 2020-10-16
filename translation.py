@@ -36,9 +36,9 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **👨‍💻 Developer:** [A N K I T H](https://t.me/Ankith_m)
 
-**📮 Channel:** [SUPER BOTz UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [SUPER BOTz UPDATES](https://t.me/Super_botz)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Group:** [SUPER BOTz SUPPOT](https://t.me/Super_botz_support)
 
 **💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
 
