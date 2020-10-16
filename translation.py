@@ -40,7 +40,7 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **👥 Group:** [SUPER BOTz SUPPOT](https://t.me/Super_botz_support)
 
-**💻 Leech Group:**[Leech  ](https://github.com/Ns-AoNymouS/TG-CONVERT-BOT)
+**💻 Leech Group:**[Leech Group](https://t.me/leech_group)
 
 """
 
