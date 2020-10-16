@@ -34,9 +34,9 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [A N K I T H](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [A N K I T H](https://t.me/Ankith_m)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [SUPER BOTz UPDATES](https://t.me/Ns_bot_updates)
 
 **👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
 
